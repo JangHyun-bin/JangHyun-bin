@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JangHyun-bin
-- 👀 I’m interested in Computer Graphics, ML/DL, Fine Art / Media Art
-- 📫 How to reach me
+- 👀 Computer Graphics, ML/DL, Fine Art / Media Art
+- 📫 Reach me
     email : narnia0981@gmail.com
     tel : +82 10-2164-2038
 <!---
