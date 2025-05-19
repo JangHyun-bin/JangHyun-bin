@@ -1,1 +1,1 @@
-- 👀 Computer Graphics, ML/DL, Experimental Art
+👀 Computer Graphics, ML/DL, Experimental Art
