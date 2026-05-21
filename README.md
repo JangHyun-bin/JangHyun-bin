@@ -1,90 +1,62 @@
-```console
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   R H I Z O M E   //   do androids dream of electric sheep?  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-```bash
-hyunbin@rhizome:~$ whoami
-```
-> founder of **Rhizome** &nbsp;·&nbsp; researcher in generative ai &nbsp;·&nbsp;
-> builder of things that flicker between code and image.
+<br><br>
 
-```bash
-hyunbin@rhizome:~$ cat ~/about.md
-```
-> a digital media studio working at the seam of **LLMs**,
-> **interactive installation**, and **computer vision**.
->
-> previously — cg/vfx, houdini, vulkan rendering, optix path tracing.
-> currently — dit + flow matching, 3d-aware generation,
-> face swap pipelines on wan2.1-14b.
->
-> *“a rhizome has no beginning or end;*
-> *it is always in the middle, between things.”* &nbsp;— deleuze & guattari
+# RHIZOME
 
-```bash
-hyunbin@rhizome:~$ ls -la ./works/
-```
-```
-drwxr-xr-x   cascade-ai/        LLM-integrated digital signage CMS
-drwxr-xr-x   docent-ai/         AI guide system for cultural venues
-drwxr-xr-x   stand-in/          video face swap pipeline (Wan2.1-14B)
-drwxr-xr-x   vanta/             ─
-drwxr-xr-x   installations/     APEC 2025 · Osaka Expo · national museums
-```
+<sub><i>Do Androids Dream of Electric Sheep?</i></sub>
 
-```bash
-hyunbin@rhizome:~$ tree ./research/ -L 2
-```
-```
-research/
-├── generative/
-│   ├── dit + flow matching       (rectified flow, ffhq · celebv-hq · ucf-101)
-│   ├── repa / irepa              (representation alignment)
-│   └── eg3d                      (tri-plane 3d-aware generation)
-├── video/
-│   ├── factorized space-time dit (~179M params, bf16 amp)
-│   └── vggrpo                    (geometry-consistent video)
-└── rendering/
-    ├── vulkan / c++              (custom forward+ pipeline)
-    └── optix path tracer         (principled brdf)
-```
+<br><br>
 
-```bash
-hyunbin@rhizome:~$ uname -a
-```
-```
-Linux hyunbin 26.05 #1 SMP  · seoul, kr  · UTC+09
-stack   pytorch · cuda · vulkan · touchdesigner · nestjs/next · electron
-hw      rtx 4080 (local)  //  h100 · a100  (runpod, vast.ai)
-```
+</div>
 
-```bash
-hyunbin@rhizome:~$ history | tail
-```
-```
-  1  designed RAPA smart-hospital AI consortium architecture
-  2  trained factorized space-time DiT on CelebV-HQ / UCF-101
-  3  shipped CASCADE AI CMS  (~67k loc, monorepo)
-  4  built gesture detection for cheongra sky bridge (yolo-pose + mlp)
-  5  surveyed face-swap landscape — dreamid, livingswap, vividface
-  6  studied for 독학사 cs / 정보처리산업기사
-  7  read deleuze, dick, and rendering papers in equal measure
-```
+<br>
 
-```bash
-hyunbin@rhizome:~$ echo $CONTACT
-```
-```
-mail     narnia0981@gmail.com
-studio   rhizome (formerly FAMOZ)
-loc      seoul, kr
-```
+> A rhizome has no beginning or end;  
+> it is always in the middle, between things.  
+> <sub>— Deleuze & Guattari, <i>A Thousand Plateaus</i></sub>
 
-```diff
-- "more human than human" is our motto.
-+ do androids dream of electric sheep?
-```
+<br>
+
+A studio working between code, image, and surface — between language models and projection, rendering and dream. The works grow horizontally; without root, without trunk.
+
+<br>
+
+<div align="center">·&nbsp;&nbsp;·&nbsp;&nbsp;·</div>
+
+<br>
+
+**Selected works**
+
+<sub>cat. 001</sub> &nbsp; **Stand-In** &nbsp;·&nbsp; <i>video face-swap pipeline, Wan2.1-14B</i> &nbsp;·&nbsp; <sub>2025—</sub>  
+<sub>cat. 002</sub> &nbsp; **CASCADE AI** &nbsp;·&nbsp; <i>LLM-integrated digital signage</i> &nbsp;·&nbsp; <sub>2024—</sub>  
+<sub>cat. 003</sub> &nbsp; **DOCENT AI** &nbsp;·&nbsp; <i>ai guide for cultural venues</i> &nbsp;·&nbsp; <sub>2025</sub>  
+<sub>cat. 004</sub> &nbsp; **APEC 2025 Korea** &nbsp;·&nbsp; <i>interactive media</i> &nbsp;·&nbsp; <sub>2025</sub>  
+<sub>cat. 005</sub> &nbsp; **Osaka Expo · Korea Pavilion** &nbsp;·&nbsp; <i>immersive installation</i> &nbsp;·&nbsp; <sub>2024</sub>  
+<sub>cat. 006</sub> &nbsp; **Cheongra Sky Bridge** &nbsp;·&nbsp; <i>gesture-driven media</i> &nbsp;·&nbsp; <sub>2024</sub>  
+
+<br>
+
+<div align="center">·&nbsp;&nbsp;·&nbsp;&nbsp;·</div>
+
+<br>
+
+**Notes**
+
+<sub>
+
+— currently reading dit, flow matching, and 3d-aware generation papers in equal weight.  
+— quietly building stand-in on h100, between projects.  
+— between deleuze and dick; between vulkan and the lecture hall.
+
+</sub>
+
+<br>
+
+<div align="center">·&nbsp;&nbsp;·&nbsp;&nbsp;·</div>
+
+<br>
+
+<div align="center">
+<sub>narnia0981@gmail.com &nbsp;&nbsp;·&nbsp;&nbsp; seoul · utc+09</sub>
+</div>
