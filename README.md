@@ -1,11 +1,12 @@
 <div align="center">
-
 <br><br>
 
-# RHIZOME
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&size=44&duration=1&pause=99999&color=000000&center=true&vCenter=true&width=600&height=70&lines=RHIZOME&repeat=false" alt="RHIZOME"/>
 
 <sub><i>Do Androids Dream of Electric Sheep?</i></sub>
 
 <div align="center">
 <sub>narnia0981@gmail.com &nbsp;&nbsp;·&nbsp;&nbsp; seoul · utc+09</sub>
+</div>
+
 </div>
