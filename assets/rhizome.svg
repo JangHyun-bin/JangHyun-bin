@@ -1,12 +1,29 @@
-<text
-  x="50%"
-  y="52%"
-  text-anchor="middle"
-  dominant-baseline="middle"
-  font-family="Michroma, Eurostile, Orbitron, Arial, sans-serif"
-  font-size="138"
-  letter-spacing="28"
-  fill="#050307"
-  opacity="0.94">
-  RHIZOME
-</text>
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RHIZOME">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="4" seed="11"/>
+      <feColorMatrix type="matrix"
+        values="
+          0.55 0.05 0.18 0 0.08
+          0.04 0.12 0.22 0 0.03
+          0.18 0.04 0.28 0 0.12
+          0    0    0    1 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="360" fill="#2b1027"/>
+  <rect width="1600" height="360" filter="url(#grain)" opacity="0.78"/>
+
+  <text
+    x="50%"
+    y="52%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Michroma, Eurostile, Orbitron, Arial, sans-serif"
+    font-size="138"
+    letter-spacing="28"
+    fill="#050307"
+    opacity="0.94">
+    RHIZOME
+  </text>
+</svg>
